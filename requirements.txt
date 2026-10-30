@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+torch
+jupyterlab
+# 아래 둘은 tools/prepare_data.py(원본 데이터 변환)에만 필요
+h5py
+scikit-image
