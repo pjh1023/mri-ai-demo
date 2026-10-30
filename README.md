@@ -15,7 +15,7 @@
 pip install -r requirements.txt
 jupyter lab MRI_AI_demo.ipynb
 ```
-GPU는 필요 없습니다. 전체 실행에 약 2분 30초 걸립니다 (GPU가 있으면 MRI 그리기 파트가 자동으로 GPU를 씁니다).
+GPU는 필요 없습니다. CPU로 전체 실행에 약 2분 30초 걸리고, GPU가 있으면 자동으로 GPU를 써서 30초 안에 끝납니다.
 
 ## 흐름
 
